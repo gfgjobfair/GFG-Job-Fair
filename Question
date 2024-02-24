@@ -1,5 +1,6 @@
 Data Analysis using Python:
 Dataset link : https://github.com/gfgjobfair/GFG-Job-Fair/blob/main/netflix_titles.csv 
+
 Q1) Calculate the average duration of movies (type = 'Movie') in minutes
 Q2) Identify the director with the most movies in the dataset
 Q3) Find the most common combination of genres for TV shows with a release year after 2010.
@@ -33,6 +34,7 @@ Machine Learning Questions:
 
 
 Excel Ouestions: 
+Dataset link: https://github.com/gfgjobfair/GFG-Job-Fair/blob/main/Stock_Data.xlsx
 
 •	Write Formula and What is the average daily return of the stock?
 •	Write Formula and How many trading days had the closing price higher than the opening price?
