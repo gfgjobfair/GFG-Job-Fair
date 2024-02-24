@@ -1,4 +1,20 @@
+Data Analysis using Python:
+
+Q1) Calculate the average duration of movies (type = 'Movie') in minutes
+Q2) Identify the director with the most movies in the dataset
+Q3) Find the most common combination of genres for TV shows with a release year after 2010.
+Q4) Determine the month with the highest number of additions (date_added) in the dataset.
+Q5) Calculate the percentage of TV shows (type = 'TV Show') in the dataset
+Q6) Find the title of the longest movie in the dataset
+Q7) Identify the actor/actress with the most appearances (cast) in the dataset.
+Q8) Determine the top 5 countries with the highest average movie duration, considering only countries with at least 10 movies in the dataset.
+Q9) Determine the most common genre in the dataset.
+Q10) Find the number of unique countries in the dataset.
+
+
+
 SQL Query: 
+
 Consider a company with two tables: ‘Employees’ and ‘Projects’. The ‘Employees’ table contains information about each employee, including their ID, name, department, and salary. The ‘Projects’ table contains information about projects, including their ID, name, and the ID of the employee assigned to each project.
 1.	Write a query to find the highest-paid employee in each department.
 2.	Identify employees who are assigned to multiple projects.
@@ -9,12 +25,12 @@ Consider a company with two tables: ‘Employees’ and ‘Projects’. The ‘E
 
 Machine Learning Questions: 
 
-
 •	What is the process of predicting continuous values?
 •	What is the technique used for grouping similar data points together?
 •	What is the term for the process of reducing the number of features in a dataset?
 •	What is the method used to split a dataset into training and testing sets to evaluate a model's performance?
 •	What is the measure of how much a change in one variable influences the change in another variable? 
+
 
 Excel Ouestions: 
 
