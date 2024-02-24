@@ -1,5 +1,5 @@
 Data Analysis using Python:
-
+Dataset link : https://github.com/gfgjobfair/GFG-Job-Fair/blob/main/netflix_titles.csv 
 Q1) Calculate the average duration of movies (type = 'Movie') in minutes
 Q2) Identify the director with the most movies in the dataset
 Q3) Find the most common combination of genres for TV shows with a release year after 2010.
